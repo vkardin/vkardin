@@ -4,7 +4,8 @@
   <a href="https://vkardin.github.io/"><b>vkardin.github.io</b></a> ·
   <a href="https://vkardin.github.io/ru/">Русский</a> ·
   <a href="https://vkardin.github.io/uk/">Українська</a> ·
-  <a href="https://www.youtube.com/@vKardin">YouTube</a>
+  <a href="https://www.youtube.com/@vKardin">YouTube</a> ·
+  <a href="https://www.tiktok.com/@vkard1n">TikTok</a>
 </p>
 
 I make small, focused tools that respect you. Every project is **free**, **MIT-licensed**, works **without accounts or cloud**, and **collects no data**. Interfaces and docs come in English, Russian and Ukrainian.
