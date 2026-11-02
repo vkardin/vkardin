@@ -35,6 +35,10 @@ I make small, focused tools that respect you. Every project is **free**, **MIT-l
 
 ## Support
 
-These tools are free and stay free. If one of them saves you time, you can support further development on any project page, for example [Video Glow → Donate](https://vkardin.github.io/video-glow/#donate). A ⭐ on GitHub helps too: it makes the projects easier for other people to find.
+These tools are free and stay free. If one of them saves you time, you can support further development:
+
+<a href="https://ko-fi.com/vkardin"><img src="https://img.shields.io/badge/Ko--fi-Support%20by%20card-f3f2ef?style=for-the-badge&logo=kofi&logoColor=ff5e5b&labelColor=131315" alt="Support on Ko-fi"></a>
+
+Crypto (USDT, BTC, ETH, SOL) is listed on every project page, for example [Video Glow → Donate](https://vkardin.github.io/video-glow/#donate). A ⭐ on GitHub helps too: it makes the projects easier for other people to find.
 
 <sub>Found a bug or have an idea? Open an issue in the project's repository.</sub>
