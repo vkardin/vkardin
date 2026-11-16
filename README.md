@@ -27,7 +27,7 @@ I make small, focused tools that respect you. Every project is **free**, **MIT-l
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/snapt"><img src="assets/snapt.svg" width="56" alt="Snapt"></a></td>
-    <td><b><a href="https://github.com/vkardin/snapt">Snapt</a></b> · desktop app (Rust) + browser extension<br>Fast, lightweight screenshot tool for Windows, macOS and Linux. Select, annotate, copy.<br><sub><a href="https://vkardin.github.io/snapt/#download">Download</a> · <a href="https://addons.mozilla.org/firefox/addon/snapt-screenshots-images/">Firefox extension</a> · <a href="https://vkardin.github.io/snapt/">Website</a></sub></td>
+    <td><b><a href="https://github.com/vkardin/snapt">Snapt</a></b> · desktop app (Rust) + browser extension<br>Fast, lightweight screenshot tool for Windows, macOS and Linux. Select, annotate, copy.<br><sub><a href="https://vkardin.github.io/snapt/#download">Download</a> · <a href="https://chromewebstore.google.com/detail/cgojajobdffefmabijahgncknakoegic">Chrome extension</a> · <a href="https://addons.mozilla.org/firefox/addon/snapt-screenshots-images/">Firefox extension</a> · <a href="https://vkardin.github.io/snapt/">Website</a></sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/uni-homebot"><img src="assets/uni-homebot.svg" width="56" alt="UNI"></a></td>
@@ -36,6 +36,10 @@ I make small, focused tools that respect you. Every project is **free**, **MIT-l
   <tr>
     <td align="center"><a href="https://github.com/vkardin/koly"><img src="assets/koly.svg" width="56" alt="Коли Є"></a></td>
     <td><b><a href="https://github.com/vkardin/koly">Коли Є</a></b> · Windows widget, Android app in development<br>Power outage schedules for every region of Ukraine: what is on now, a countdown to the next change, today and tomorrow. Works offline.<br><sub><a href="https://github.com/vkardin/koly/releases/latest">Download</a> · <a href="https://vkardin.github.io/koly/">Website</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/vkardin/blackoutmode"><img src="assets/blackoutmode.svg" width="56" alt="BlackoutMode"></a></td>
+    <td><b><a href="https://github.com/vkardin/blackoutmode">BlackoutMode</a></b> · Windows tray app (Go)<br>Keeps a laptop alive through power outages: cuts the power draw, counts the time left on battery and power bank, follows the outage schedule.<br><sub><a href="https://github.com/vkardin/blackoutmode/releases/latest">Download</a> · <a href="https://vkardin.github.io/blackoutmode/">Website</a></sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/tukk"><img src="assets/tukk.svg" width="56" alt="Tukk"></a></td>
