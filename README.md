@@ -35,15 +35,15 @@ I make small, focused tools that respect you. Every project is **free**, **MIT-l
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/blackoutmode"><img src="assets/blackoutmode.svg" width="56" alt="BlackoutMode"></a></td>
-    <td><b><a href="https://github.com/vkardin/blackoutmode">BlackoutMode</a></b> · Windows tray app (Go)<br>Keeps a laptop alive through power outages: cuts the power draw, counts the time left on battery and power bank, follows the outage schedule.<br><sub><a href="https://github.com/vkardin/blackoutmode/releases/latest">Download</a> · <a href="https://vkardin.github.io/blackoutmode/">Website</a></sub></td>
+    <td><b><a href="https://github.com/vkardin/blackoutmode">BlackoutMode</a></b> · Windows tray app (Go)<br>Keeps a laptop alive through power outages: cuts the power draw, counts the time left on battery and power bank, follows the outage schedule.<br><sub><a href="https://github.com/vkardin/blackoutmode/releases/latest">Windows</a> · <a href="https://vkardin.github.io/blackoutmode/">Website</a></sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/tukk"><img src="assets/tukk.svg" width="56" alt="Tukk"></a></td>
-    <td><b><a href="https://github.com/vkardin/tukk">Tukk</a></b> · Android app<br>Phone gestures for everyday actions: shake for the flashlight, flip face down for silence, tap the back to pause music.<br><sub><a href="https://github.com/vkardin/tukk/releases/latest">Download</a> · <a href="https://vkardin.github.io/tukk/">Website</a></sub></td>
+    <td><b><a href="https://github.com/vkardin/tukk">Tukk</a></b> · Android app<br>Phone gestures for everyday actions: shake for the flashlight, flip face down for silence, tap the back to pause music.<br><sub><a href="https://github.com/vkardin/tukk/releases/latest">Android</a> · <a href="https://vkardin.github.io/tukk/">Website</a></sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/uni-homebot"><img src="assets/uni-homebot.svg" width="56" alt="UNI"></a></td>
-    <td><b><a href="https://github.com/vkardin/uni-homebot">UNI</a></b> · Telegram bot + Mini App (Python)<br>Your home server in Telegram: apps, monitoring, news and repairs. Self-hosted, installs with one command.<br><sub><a href="https://github.com/vkardin/uni-homebot/releases/latest">Download</a> · <a href="https://vkardin.github.io/uni-homebot/">Website</a></sub></td>
+    <td><b><a href="https://github.com/vkardin/uni-homebot">UNI</a></b> · Telegram bot + Mini App (Python)<br>Your home server in Telegram: apps, monitoring, news and repairs. Self-hosted, installs with one command.<br><sub><a href="https://github.com/vkardin/uni-homebot/releases/latest">Install</a> · <a href="https://vkardin.github.io/uni-homebot/">Website</a></sub></td>
   </tr>
 </table>
 
