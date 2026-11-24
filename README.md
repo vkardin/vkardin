@@ -27,7 +27,7 @@ I make small, focused tools that respect you. Every project is **free**, **MIT-l
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/video-drift"><img src="assets/video-drift.svg" width="56" alt="Video Drift"></a></td>
-    <td><b><a href="https://github.com/vkardin/video-drift">Video Drift</a></b> · browser extension<br>Pops any web video into a floating window with subtitles, remembers where you stopped and saves timestamped notes.<br><sub><a href="https://addons.mozilla.org/firefox/addon/video-drift-floating-player/">Firefox</a> · <a href="https://github.com/vkardin/video-drift/releases">Download</a> · <a href="https://vkardin.github.io/video-drift/">Website</a></sub></td>
+    <td><b><a href="https://github.com/vkardin/video-drift">Video Drift</a></b> · browser extension<br>Pops any web video into a floating window with subtitles, remembers where you stopped and saves timestamped notes.<br><sub><a href="https://chromewebstore.google.com/detail/bphdaamcfgjhecpjhoklmionmhoemocd">Chrome</a> · <a href="https://addons.mozilla.org/firefox/addon/video-drift-floating-player/">Firefox</a> · <a href="https://vkardin.github.io/video-drift/">Website</a></sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vkardin/koly"><img src="assets/koly.svg" width="56" alt="Коли Є"></a></td>
